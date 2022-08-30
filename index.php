@@ -1,6 +1,6 @@
 <?php
 
-	echo"Olá Novo Mundo!";
-	echo "Olá HCode!";
+	echo"Olha só!";
+	echo "Agora tem que funcionar!";
 
 ?>
